@@ -1,0 +1,8 @@
+# Укажите путь к вашему скрипту
+script_path = "/home/jupyter/work/resources/console.py"
+
+# Задайте значение переменной __file__
+globals()['__file__'] = script_path
+
+# Выполните скрипт
+exec(open(script_path).read())
