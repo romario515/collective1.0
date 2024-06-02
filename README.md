@@ -6,7 +6,7 @@ Desktop app for video analysis
 в папке testing_videos лежат тестовые видеофайлы
 в папке audio скрипт для распознавания голоса на видео подключается к консольному и десктопному приложению отдельно
 
-![alt text]([https://raw.githubusercontent.com/username/projectname/commit/img.png](https://github.com/romario515/collective1.0/blob/main/test.png))
+![alt text](https://github.com/romario515/collective1.0/blob/main/test.png))
 
 Дерево файлов
 main
